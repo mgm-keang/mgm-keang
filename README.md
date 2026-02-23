@@ -72,10 +72,10 @@
 
 ###
 
-<h2 align="center">🧊 3D Contribution City</h2>
+<h2 align="center">⚡ System Status</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mgm-keang/mgm-keang/main/profile-3d-contrib/profile-night-view.svg" alt="3D Isometric GitHub Commits" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=class+BackendDev(Python,+OracleSQL)%3A;CREATE+VIEW+my_future+AS+SELECT+*+FROM+success%3B;Building+reliable+systems...;print(%22Creating+bugs+since+2022%22)" alt="Typing Animation" />
 </div>
 
 ###
