@@ -10,11 +10,23 @@
 
 ###
 
-<img align="right" height="252" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk4N2Y3d3I0a3B2NzUyZGw4YzloeXd4Mml5ZXo2MmZhcTBvOGRkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp"  />
+<div align="center">
+  <table style="background-color:#0d1117; border-radius:12px; padding:15px;">
+    <tr>
+      <td align="center">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk4N2Y3d3I0a3B2NzUyZGw4YzloeXd4Mml5ZXo2MmZhcTBvOGRkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" height="180" style="border-radius:8px;" />
+      </td>
+      <td style="color:#c9d1d9; padding-left:25px; line-height:1.6;">
 
-###
+**✨ Creating bugs since 2022** — improving every day  
+📚 Learning **Python backend** & **clean architecture**  
+🎯 Building reliable systems that solve real problems  
+🎲 *Fun fact:* I break complex problems into simple solutions
 
-<h5 align="left">✨ Creating bugs since 2022 — improving every day.<br>📚 I'm currently learning Python backend development and clean architecture.<br>🎯 Goals: Build reliable systems and solve real-world problems through code.<br>🎲 Fun fact: I enjoy breaking down complex problems into simple solutions.<br> <br> <br><br><br><br><br><br>1</h5>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ###
 
