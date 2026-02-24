@@ -1,6 +1,6 @@
-<h1 align="left">Backend Developer in progress, building APIs and breaking bugs.</h1>
 
-###
+
+## Backend Developer in progress, building APIs and squashing bugs.
 
 <p align="left">My name is Sokkeang Vang, and I'm a Backend Developer specializing in Python, from Cambodia.</p>
 
@@ -11,12 +11,9 @@
 ###
 
 <div align="center">
-  <table style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 20px;">
-    <tr>
-      <td align="center" width="250" style="padding: 10px;">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk4N2Y3d3I0a3B2NzUyZGw4YzloeXd4Mml5ZXo2MmZhcTBvOGRkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" width="180" style="border-radius: 12px; border: 2px solid #21262d;" alt="Coding GIF" />
-      </td>
-      <td style="color: #c9d1d9; padding: 20px 30px; text-align: left;">
+  <table border="0" cellspacing="0" cellpadding="0" style="background-color: #0d1117; width: 100%; border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td style="color: #c9d1d9; padding: 20px 30px; text-align: left; border: none;" width="500">
         <h3 style="margin-top: 0; color: #58a6ff;">🚀 Backend Alchemist in Training</h3>
         <p style="font-size: 15px; line-height: 1.8;">
           ✨ <b>Creating bugs since 2022</b> — learning & improving every day.<br>
@@ -24,6 +21,9 @@
           🎯 Building scalable APIs and reliable backend systems.<br>
           🎲 <i>Fun fact:</i> I simplify complex problems into practical solutions.
         </p>
+      </td>
+      <td align="center" width="500" style="padding: 10px; border: none;">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk4N2Y3d3I0a3B2NzUyZGw4YzloeXd4Mml5ZXo2MmZhcTBvOGRkOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.webp" width="180" style="border-radius: 12px; margin-right: 15px;" alt="Coding GIF 1" />
       </td>
     </tr>
   </table>
@@ -87,8 +87,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:mgm-keang?theme=booru-koe&padding=7&offset=1&scale=1&align=center&pixelated=1&darkmode=1"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgm-keang/mgm-keang/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgm-keang/mgm-keang/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mgm-keang/mgm-keang/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
